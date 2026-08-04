@@ -220,20 +220,25 @@ Cho hàm số $y=x^3-3x^2+5$ có đồ thị $(C)$. Tính độ dài đoạn th�
 
 \begin{ex}
 Biết hàm số $y=ax^3+bx^2+cx+d$ có hai điểm cực trị là $(-1;18)$ và $(3;-16)$. Tính giá trị biểu thức $P=a+b+c+d$.
+\shortans{1}
 \end{ex}
 
 \begin{ex}
-Đồ thị của hàm số $y=x^3-3x^2-9x+1$ có hai điểm cực trị là $A$ và $B$. Tính khoảng cách từ gốc toạ độ $O$ đến đường thẳng $AB$.
+Đồ thị của hàm số $y=x^3-3x^2-9x+1$ có hai điểm cực trị là $A$ và $B$. Tính khoảng cách từ gốc toạ độ $O$ đến đường thẳng $AB$ (Kết quả làm tròn đến hàng phần trăm). 
+\shortans{0.25}
 \end{ex}
 
 \begin{ex}
 Biết đồ thị $(C)$ của hàm số $y=\dfrac{x^2-4x+5}{x-1}$ có hai điểm cực trị. Đường thẳng đi qua hai điểm cực trị của đồ thị hàm số $(C)$ tạo với hai trục toạ độ một tam giác có diện tích $S$ bằng bao nhiêu?
+\shortans{4}
 \end{ex}
 
 \begin{ex}
-Gọi $A,B,C$ là ba điểm cực trị của đồ thị hàm số $y=x^4-2x^2+4$. Bán kính đường tròn nội tiếp tam giác $ABC$ bằng bao nhiêu?
+Gọi $A,B,C$ là ba điểm cực trị của đồ thị hàm số $y=x^4-2x^2+4$. Bán kính đường tròn nội tiếp tam giác $ABC$ bằng bao nhiêu?(Kết quả làm tròn đến hàng phần trăm)
+\shortans{0.41}
 \end{ex}
 
 \begin{ex}
 Cho hàm số $y=ax^3+bx^2+cx+d$ đạt cực trị tại các điểm $x_1, x_2$ thỏa mãn $x_1 \in (-1;0), x_2 \in (1;2)$. Biết hàm số đồng biến trên khoảng $(x_1;x_2)$. Đồ thị hàm số cắt trục tung tại điểm có tung độ âm. Trong các số $a,b$ và $c$ có bao nhiêu số âm?
+\shortans{1}
 \end{ex}
