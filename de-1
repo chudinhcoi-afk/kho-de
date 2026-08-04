@@ -214,7 +214,8 @@ Cho hàm số $y=\dfrac{x^2+x-1}{x-1}$
 \setcounter{ex}{0}
 
 \begin{ex}
-Cho hàm số $y=x^3-3x^2+5$ có đồ thị $(C)$. Tính độ dài đoạn thẳng nối hai điểm cực trị của đồ thị $(C)$.
+Cho hàm số $y=x^3-3x^2+5$ có đồ thị $(C)$. Tính độ dài đoạn thẳng nối hai điểm cực trị của đồ thị $(C)$ (Kết quả làm tròn đến hàng phần trăm).
+\shortans{4.47}
 \end{ex}
 
 \begin{ex}
