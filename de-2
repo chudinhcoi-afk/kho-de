@@ -185,7 +185,7 @@ Hàm số $y=(x+m)^3+(x+n)^3-x^3$ (tham số là $m,n$) đồng biến trên $(-
 \end{ex}
 
 \begin{ex}
-Gọi $S$ là tập hợp các giá trị nguyên trên đoạn$[0;20]$ của tham số $m$ để hàm số $y=\dfrac{1}{3}x^3-\dfrac{1}{2}mx^2+2mx-3m+4$ nghịch biến trên khoảng có độ dài bằng $3$. Tính tổng các phần tử của $S$.
+Gọi $S$ là tập hợp các giá trị nguyên trên đoạn $[0;20]$ của tham số $m$ để hàm số $y=\dfrac{1}{3}x^3-\dfrac{1}{2}mx^2+2mx-3m+4$ nghịch biến trên khoảng có độ dài bằng $3$. Tính tổng các phần tử của $S$.
 \shortans{174}
 \end{ex}
 
