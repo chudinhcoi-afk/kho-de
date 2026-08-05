@@ -1,0 +1,173 @@
+
+\textbf{Phần 1. Trắc nghiệm nhiều lựa chọn}
+\setcounter{ex}{0}
+\begin{ex}
+Một vật chuyển động với vận tốc $(\text{m/s})$ được xác định bởi hàm số $f(t)=-t^3+3t^2$ với $t \ge 0$. Khi đó $f'(t)$ là gia tốc của vật tại thời điểm $t$ (giây). Vận tốc của vật đạt được cao nhất trong khoảng thời gian $3$ giây đầu là bao nhiêu $(\text{m/s})$?
+\choice
+{$6$}
+{$2$}
+{\True $4$}
+{$3$}
+\end{ex}
+
+\begin{ex}
+Doanh số bán hàng của một loại sản phẩm (chục triệu đồng) trong một phiên livestream bán hàng kéo dài sáu giờ theo quy luật hàm số $f(t)=\dfrac{3t}{e^{\frac{t}{2}}}, 0 \le t \le 6$ trong đó thời gian $t$ được tính bằng giờ kể từ khi bắt đầu livestream. Khi đó, đạo hàm $f'(t)$ sẽ biểu thị tốc độ bán hàng. Hỏi sau bao nhiêu giờ kể từ khi bắt đầu phiên livestream thì doanh số bán hàng là lớn nhất?
+\choice
+{$5$ giờ}
+{$3$ giờ}
+{$1$ giờ}
+{\True $2$ giờ}
+\end{ex}
+\begin{ex}
+Một cửa hàng cà phê bán cà phê espresso, nhận thấy rằng lợi nhuận của cửa hàng $y$ (tính theo đơn vị triệu đồng/ngày) phụ thuộc vào giá bán $x$ (chục nghìn đồng) mỗi ly espresso. Qua khảo sát, cửa hàng mô tả lợi nhuận theo hàm số sau: $y=-2x^4+36x^2-90$. Hỏi cửa hàng nên chọn mức giá mỗi ly là bao nhiêu để lợi nhuận tối ưu nhất?
+\choice
+{$10$ nghìn đồng}
+{$20$ nghìn đồng}
+{\True $30$ nghìn đồng}
+{$40$ nghìn đồng}
+\end{ex}
+
+\begin{ex}
+Tốc độ trung bình $y$ $(\text{km/h})$ của một chiếc xe bus phụ thuộc vào số lượng hành khách $x$ (người) trên xe, được biểu diễn bởi hàm số $y=\dfrac{-2x+120}{0{,}5x+2}$. Hỏi tốc độ trung bình của xe bus khi không có khách là bao nhiêu?
+\choice
+{\True $60\text{ km/h}$}
+{$70\text{km/h}$}
+{$120\text{km/h}$}
+{$40\text{km/h}$}
+\end{ex}
+
+\begin{ex}
+Khi loại thuốc $A$ được tiêm vào bệnh nhân, nồng độ $\text{mg}/\text{L}$ của thuốc trong máu sau $x$ phút (kể từ khi bắt đầu tiêm) được xác định bởi công thức: $C(x)=\dfrac{30x}{x^2+2}$. Để đưa ra những lời khuyên và cách xử lí phù hợp cho bệnh nhân, ta cần tìm khoảng thời gian mà nồng độ của thuốc trong máu đang tăng. Em hãy cho biết hàm nồng độ thuốc trong máu $C(x)$ đạt giá trị cực đại là bao nhiêu trong khoảng thời gian $6$ phút sau khi tiêm (kết quả làm tròn đến hàng phần mười)?
+\choice
+{$11{,}6$}
+{$10{,}6$}
+{$10{,}5$}
+{\True $10{,}7$}
+\end{ex}
+\begin{ex}
+Một chuyển động thẳng xác định bởi phương trình $S(t)=\dfrac{1}{3}t^3-3t^2+5t+2$ với $t \ge 0$, trong đó $t$ tính bằng giây và $s$ tính bằng mét. Trong khoảng thời gian nào vận tốc của vật tăng?
+\choice
+{$(0;+\infty)$}
+{$(0;3)$}
+{$(-4;+\infty)$}
+{\True $(3;+\infty)$}
+\end{ex}
+
+\begin{ex}
+Giả sử số lượng quần thể nấm men tại môi trường nuôi cấy trong phòng thí nghiệm được mô hình hóa bằng hàm số $P(t)=\dfrac{25}{0{,}25+e^{-0{,}75t}}$, trong đó thời gian $t$ được tính bằng giờ. Tốc độ sinh trưởng của quần thể nấm men ở thời điểm $t$ được tính theo công thức $P'(t)$. Số lượng quần thể nấm men có thể tăng lên nhưng không vượt quá bao nhiêu
+\choice
+{$99$}
+{$101$}
+{\True $100$}
+{$102$}
+\end{ex}
+\begin{ex}
+Một chất điểm chuyển động theo phương trình $s(t)=-\dfrac{t^3}{3}+9t^2-17t+10$, trong đó $t$ tính bằng giây và $s$ tính bằng mét. Trong $30$ giây đầu tiên, chất điểm có vận tốc tức thời giảm trong khoảng thời gian $(a;b)$. Giá trị của biểu thức $P=3b-4a$ là
+\choice
+{$47$}
+{\True $54$}
+{$39$}
+{$63$}
+\end{ex}
+
+\begin{ex}
+Sự tăng trưởng của một loại virut được xác định bởi hàm số $p(t)=\dfrac{800}{1+7e^{-0{,}2t}}$, trong đó $t$ là thời gian được tính theo ngày, tốc độ tăng trưởng của virut được tính theo hàm số $p'(t)$. Thời gian tăng trưởng của loài virut trên thuộc khoảng $(0;a\ln b)$ với $a,b \in \mathbb{N}$. Khi đó $a+b$ bằng
+\choice
+{\True $12$}
+{$14$}
+{$15$}
+{$36$}
+\end{ex}
+\begin{ex}
+Vận tốc của một tàu con thoi từ lúc cất cánh tại thời điểm $t=0\text{ (s)}$ cho đến thời điểm $t=126\text{ (s)}$ được cho bởi công thức $v(t)=0{,}001302t^3-0{,}09029t^2+83$ (vận tốc được tính bằng đơn vị $\text{ft/s}$). Hỏi tại thời điểm tàu con thoi đạt gia tốc nhỏ nhất thì vận tốc tàu con thoi gần bằng bao nhiêu? (Kết quả làm tròn đến hàng phần trăm).
+\choice
+{$22{,}81$}
+{$23{,}81$}
+{$23{,}03$}
+{\True $20{,}84$}
+\end{ex}
+
+\begin{ex}
+Một tia sáng phát ra từ điểm $A(0;3)$ trong không khí (vận tốc ánh sáng trong không khí bằng $v_1=c$, với $c=3 \cdot 10^8\text{ m/s}$), truyền tới điểm $B(6;-4)$ trong nước (vận tốc ánh sáng trong nước là $v_2=\dfrac{3c}{4}$). Mặt phân cách giữa không khí và nước là đường thẳng $y=0$ (trục hoành trong mặt phẳng tọa độ $Oxy$). Giả sử tia sáng đi qua $M(x;0)$ trên mặt phân cách để tổng thời gian truyền là nhỏ nhất. $x$ bằng bao nhiêu? (Kết quả làm tròn đến hàng phần trăm).
+\choice
+{\True $3{,}32$}
+{$2{,}97$}
+{$4{,}59$}
+{$5{,}22$}
+\end{ex}
+\begin{ex}
+Nồng độ $C$ của một hoá chất sau $t$ giờ tiêm vào cơ thể được xác định bởi công thức sau đây $C(t)=\dfrac{3t}{27+t^3}$ với $t \ge 0$. Sau khoảng bao nhiêu giờ tiêm thì nồng độ của hoá chất trong máu là lớn nhất?
+\choice
+{\True $2{,}38$}
+{$3$}
+{$2{,}12$}
+{$13{,}5$}
+\end{ex}
+
+\textbf{Phần 2. Trắc nghiệm đúng sai}
+\setcounter{ex}{0}
+\begin{ex}
+Một chất điểm chuyển động trên trục $Ox$ với phương trình $x(t)=-t^3+6t^2$ ($x$ tính bằng mét, $t$ tính bằng giây, với $t \ge 0$).
+\choiceTF
+{Trong khoảng thời gian từ $t=0$ đến $t=3$ giây, chất điểm chuyển động ngược với chiều dương của trục $Ox$}
+{Vận tốc trung bình của chất điểm trong khoảng thời gian từ $t=0$ đến $t=4$ giây bằng $6\text{ m/s}$}
+{\True Vận tốc đạt cực đại tại thời điểm $t=2$ giây}
+{\True Trong khoảng thời gian từ $t=2$ đến $t=4$ giây chất điểm chuyển động chậm dần}
+\end{ex}
+
+\begin{ex}
+Một chất điểm chuyển động trên một trục nằm ngang, chiều dương từ trái sang phải. Giả sử tại thời điểm $t$ giây ($t \ge 0$), vị trí của chất điểm được xác định bởi công thức:
+$$S(t)=-t^3+9t^2+21t+1\text{ đơn vị mét.}$$
+\choiceTF
+{Vị trí chất điểm tại thời điểm $4$ giây là $164\text{m}$}
+{\True Vận tốc đạt được của chất điểm tại thời điểm $2$ giây là $45\text{(m/s)}$}
+{Gia tốc của chất điểm tại thời điểm chất điểm dừng lại là $36\text{(m/s}^2\text{)}$}
+{\True Vị trí chất điểm tại thời điểm vận tốc đạt giá trị lớn nhất là $118\text{ m}$}
+\end{ex}
+\begin{ex}
+Giả sử một vật chuyển động trên một đường thẳng vuông góc với mặt đất. Độ cao của vật so với mặt đất (đơn vị: mét) tại thời điểm $t$ (giây) là $h(t)=-\dfrac{1}{3}t^3+4t^2+9t$, $0 \le t \le 10$.
+\choiceTF
+{\True Hàm vận tốc của chuyển động nói trên là $v(t)=-t^2+8t+9$ (đơn vị: mét/giây)}
+{Vận tốc triệt tiêu tại thời điểm $t=4$ (giây)}
+{Trong $10$ giây đầu tiên, vật chuyển động lên trên}
+{\True Vật có vận tốc tức thời lớn nhất bằng $25$ mét/giây trong $10$ giây đầu tiên}
+\end{ex}
+\begin{ex}
+Kim ngạch xuất khẩu rau quả của Việt Nam trong các năm từ $2010$ đến $2017$ có thể được tính xấp xỉ bằng công thức $f(x)=0{,}01x^3-0{,}04x^2+0{,}25x+0{,}44$ (tỉ $USD$) với $x$ là số năm tính từ $2010$ đến $2017$ ($0 \le x \le 7$).
+\choiceTF
+{\True Tốc độ thay đổi của kim ngạch xuất khẩu $f'(x)=0{,}03x^2-0{,}08x+0{,}25$}
+{\True Tốc độ thay đổi của kim ngạch xuất khẩu thấp nhất trong các năm từ $2010$ đến $2017$ bằng $0{,}2$ (Kết quả làm tròn đến hàng phần chục)}
+{\True Kim ngạch xuất khẩu rau quả của Việt Nam tăng liên tục trong các năm từ $2010$ đến $2017$}
+{Tỷ lệ tốc độ thay đổi so với giá trị kim ngạch xuất khẩu lớn nhất đầu năm $2015$}
+\end{ex}
+
+
+\textbf{Phần 3. Trả lời ngắn}
+\setcounter{ex}{0}
+\begin{ex}
+Các nhà khoa học tính toán phương án tiếp cận sao hỏa cho tàu đổ bộ theo cách tiếp cận thẳng đứng và đốt cháy các tên lửa hãm ở độ cao $250\text{ km}$ so với bề mặt của Sao Hỏa. Trong khoảng $60$ giây đầu tiên kể từ khi đốt cháy các tên lửa hãm, độ cao $h$ của con tàu so với bề mặt Sao Hỏa được tính (gần đúng) bởi hàm $h(t)=-0{,}02t^3+2t^2-40t+250$, trong đó $t$ là thời gian tính bằng giây và $h$ là độ cao tính bằng kilômét. Biết vận tốc tức thời của con tàu giảm trên khoảng $(a;60)$ với $a$ là số thực dương nhỏ nhất. Tìm $a$ (làm tròn đến hàng phần chục).
+\shortans{33.3}
+\end{ex}
+\begin{ex}
+Xét chất điểm chuyển động dọc theo trục $Ox$. Tọa độ của chất điểm tại thời điểm $t$ được xác định bởi hàm số $x(t)=\dfrac{4}{3}t^3-\dfrac{17}{2}t^2+13t+1$ với $t \ge 0$. Khi đó vận tốc $v(t)$ của chất điểm tại thời điểm $t$ là $x'(t)$. Biết vận tốc của chất điểm tăng trên khoảng $(a;+\infty)$ với $a$ là số thực dương nhỏ nhất. Tìm $a$ (làm tròn đến hàng phần trăm)
+\shortans{$2.13$}
+\end{ex}
+
+\begin{ex}
+Doanh số (tính bằng số sản phẩm) của một loại sản phẩm mới trong một số năm nhất định được mô hình hóa bằng hàm số $f(t)=\dfrac{3000}{1+10\mathrm{e}^{-t}}$, trong đó $t \ge 0$ là khoảng thời gian tính bằng năm kể từ khi phát hành sản phẩm đó. Đạo hàm $f'(t)$ biểu thị tốc độ bán hàng. Tốc độ bán hàng tăng liên tục trong khoảng bao nhiêu năm? (Kết quả làm tròn đến hàng phần chục)
+\shortans{$2.3$}
+\end{ex}
+
+\begin{ex}
+Một chất điểm chuyển động trên trục $Ox$ theo phương trình $x=2\sin \left(\dfrac{\pi}{4}t+\dfrac{\pi}{2}\right)$, trong đó $x$ là li độ của chất điểm tại thời điểm $t$ giây. Trong $10$ giây đầu tiên, ở thời điểm nào chất điểm bắt đầu chuyển động theo hướng dương của trục $Ox$?
+\shortans{$4$}
+\end{ex}
+
+\begin{ex}
+Nhân dịp Ngày Phụ nữ Việt Nam 20 - 10, câu lạc bộ Mỹ thuật của Minh muốn tổ chức kinh doanh thiệp chúc mừng ngày 20-10 để gây quỹ sinh hoạt cho câu lạc bộ. Mỗi tấm thiệp mua về với giá $10$ nghìn đồng. Các bạn trong câu lạc bộ sẽ sáng tác thêm nội dung của thiệp (vẽ thêm hình ảnh người, hoa cỏ, lời chúc...) và sau đó bán lại. Với mức giá bán $25$ nghìn đồng cho một tấm thiệp, câu lạc bộ có thể bán được $600$ chiếc. Nếu giảm giá bán $1$ nghìn đồng mỗi tấm thiệp thì số lượng hàng bán ra sẽ tăng thêm $50$ chiếc. Vậy câu lạc bộ nên đặt giá bán bằng bao nhiêu nghìn đồng để gây quỹ được nhiều quỹ sinh hoạt nhất?
+\shortans{$23.5$}
+\end{ex}
+\begin{ex}
+Một chiếc phà chạy giữa đất liền và một hòn đảo. Phà có công suất tối đa là $1000$ xe hơi mỗi chuyến nhưng việc tải gần hết công suất rất tốn thời gian. Biết rằng số lượng xe hơi đưa lên phà mỗi chuyến là $f(t)=\dfrac{2000t}{2t+1}$ và mất một khoảng thời gian là $t$ giờ. Mỗi xe cần trung bình $3{,}6$ giây để di chuyển xuống khi đến điểm đích. Tổng thời gian di chuyển đến đảo và thời gian vòng về mất $1{,}28$ giờ. Nên tải bao nhiêu xe lên phà cho mỗi chuyến đi để lượng xe trung bình di chuyển qua lại đảo mỗi giờ đạt lớn nhất? (Kết quả làm tròn đến hàng đơn vị)
+\shortans{$615$}
+\end{ex}
