@@ -6,7 +6,7 @@
 Cho hàm số $f(x)$ có đạo hàm $f'(x)=x-1, \forall x \in \mathbb{R}$. Hỏi $f(x)$ có bao nhiêu điểm cực trị?
 \choice
 {$0$}
-{ $1$}
+{\True $1$}
 {$2$}
 {$3$}
 \end{ex}
@@ -16,7 +16,7 @@ Hàm số $y=f(x)$ có đạo hàm là $f'(x)=x^2(x+1)^2(2x-1)$. Số điểm c�
 \choice
 {$3$}
 {$0$}
-{ $1$}
+{\True $1$}
 {$2$}
 \end{ex}
 
@@ -42,7 +42,7 @@ Cho hàm số $y=\dfrac{x^2-2x+5}{x-1}$. Hàm số đồng biến trên khoảng
 \choice
 {$(-\infty;5)$}
 {$(-3;+\infty)$}
-{ $(3;+\infty)$}
+{\True $(3;+\infty)$}
 {$(-3;5)$}
 \end{ex}
 
@@ -51,14 +51,14 @@ Hàm số $y=\dfrac{2x+3}{x+1}$ có bao nhiêu điểm cực trị?
 \choice
 {$3$}
 {$2$}
-{ $0$}
+{\True $0$}
 {$1$}
 \end{ex}
 
 \begin{ex}
 Cho hàm số $y=f(x)$ có đạo hàm là $f'(x)=(x-1)^2(3-x)(x^2-x-1)$. Hỏi hàm số $f(x)$ có bao nhiêu cực tiểu?
 \choice
-{ $1$}
+{\True $1$}
 {$3$}
 {$0$}
 {$2$}
@@ -67,7 +67,7 @@ Cho hàm số $y=f(x)$ có đạo hàm là $f'(x)=(x-1)^2(3-x)(x^2-x-1)$. Hỏi 
 \begin{ex}
 Tìm giá trị cực tiểu của hàm số $y=-x^3+3x+4$.
 \choice
-{ $y_{\text{CT}}=2$}
+{\True $y_{\text{CT}}=2$}
 {$y_{\text{CT}}=1$}
 {$y_{\text{CT}}=6$}
 {$y_{\text{CT}}=-1$}
@@ -78,7 +78,7 @@ Cho hàm số $y=f(x)$ liên tục trên $\mathbb{R}$ và có $f'(x)=(x-1)^2(x^2
 \choice
 {$5$}
 {$3$}
-{ $2$}
+{\True $2$}
 {$4$}
 \end{ex}
 
@@ -87,7 +87,7 @@ Cho hàm số $y=f(x)$ có đạo hàm $f'(x)=(x-1)(2-x), \forall x \in \mathbb{
 \choice
 {$x=1$}
 {$x=-2$}
-{ $x=2$}
+{\True $x=2$}
 {$x=-1$}
 \end{ex}
 
@@ -95,7 +95,7 @@ Cho hàm số $y=f(x)$ có đạo hàm $f'(x)=(x-1)(2-x), \forall x \in \mathbb{
 Cho hàm số $y=x^3-3x^2+2$. Điểm cực tiểu của đồ thị hàm số có tọa độ là
 \choice
 {$(2;2)$}
-{ $(2;-2)$}
+{\True $(2;-2)$}
 {$(0;-2)$}
 {$(0;2)$}
 \end{ex}
@@ -104,7 +104,7 @@ Cho hàm số $y=x^3-3x^2+2$. Điểm cực tiểu của đồ thị hàm số c
 Tìm khoảng nghịch biến của hàm số $y=f(x)$, biết $f'(x)=(x-3)(x+2)(x+5)^2, \forall x \in \mathbb{R}$.
 \choice
 {$(-\infty;-5)$}
-{ $(-2;3)$}
+{\True $(-2;3)$}
 {$(-5;-2)$}
 {$(3;+\infty)$}
 \end{ex}
@@ -115,7 +115,7 @@ Hàm số $y=-x^4+2x^2+1$ đồng biến trên khoảng nào dưới đây?
 {$(0;+\infty)$}
 {$(-\infty;-1)$}
 {$(1;+\infty)$}
-{ $(-\infty;0)$}
+{\True $(-\infty;0)$}
 \end{ex}
 
 
@@ -128,7 +128,7 @@ Cho hàm số $y=\sqrt{x^2+1}$
 \choiceTF
 {Hàm số đạt cực đại tại $x=0$.}
 {Hàm số không có cực trị.}
-{ Hàm số đạt cực tiểu tại $x=0$.}
+{\True Hàm số đạt cực tiểu tại $x=0$.}
 {Hàm số có hai điểm cực trị.}
 \end{ex}
 
@@ -138,23 +138,23 @@ Cho hàm số $y=-\dfrac{1}{2}x^4+x^2+\dfrac{1}{2}$.
 {Hàm số đạt cực tiểu tại $x=0$, giá trị cực tiểu của hàm số là $y(0)=0$.}
 {Hàm số đạt cực tiểu tại các điểm $x=\pm 1$, giá trị cực tiểu của hàm số là $y(\pm 1)=1$.}
 {Hàm số đạt cực đại tại các điểm $x=\pm 1$, giá trị cực đại của hàm số là $y(\pm 1)=\dfrac{1}{2}$.}
-{ Hàm số đạt cực tiểu tại $x=0$, giá trị cực tiểu của hàm số là $y(0)=\dfrac{1}{2}$.}
+{\True Hàm số đạt cực tiểu tại $x=0$, giá trị cực tiểu của hàm số là $y(0)=\dfrac{1}{2}$.}
 \end{ex}
 
 \begin{ex}
 Cho hàm số $y=mx^3+mx^2-(m+1)x+1$, với $m$ là tham số
 \choiceTF
-{ Hàm số là hàm số bậc ba khi $m \neq 0$}
-{ Tập xác định của hàm số là $\mathbb{R}$}
+{\True Hàm số là hàm số bậc ba khi $m \neq 0$}
+{\True Tập xác định của hàm số là $\mathbb{R}$}
 {Hàm số đồng biến trên $\mathbb{R}$ khi và chỉ khi $m < -\dfrac{3}{4}$ hoặc $m \ge 0$.}
-{ Hàm số nghịch biến trên $\mathbb{R}$ khi và chỉ khi $-\dfrac{3}{4} \le m < 0$.}
+{\True Hàm số nghịch biến trên $\mathbb{R}$ khi và chỉ khi $-\dfrac{3}{4} \le m < 0$.}
 \end{ex}
 
 \begin{ex}
 Cho hàm số $y=\dfrac{1}{3}x^3+(m+1)x^2+(m^2+2m)x-3$, với $m$ là tham số
 \choiceTF
-{ Tập xác định của hàm số là $\mathbb{R}$}
-{ Phương trình $y'=0$ có hai nghiệm phân biệt là $x_1=-m$ và $x=-m-2$}
+{\True Tập xác định của hàm số là $\mathbb{R}$}
+{\True Phương trình $y'=0$ có hai nghiệm phân biệt là $x_1=-m$ và $x=-m-2$}
 {Không tồn tại giá trị của tham số $m$ để hàm số đồng biến trên $\mathbb{R}$.}
 {Hàm số nghịch biến trên $(-1;1)$ khi và chỉ khi $m \ge -1$.}
 \end{ex}
@@ -166,24 +166,30 @@ Cho hàm số $y=\dfrac{1}{3}x^3+(m+1)x^2+(m^2+2m)x-3$, với $m$ là tham số
 \setcounter{ex}{0}
 \begin{ex}
 Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số $y=-x^3-mx^2+(4m+9)x+5$ nghịch biến trên $\mathbb{R}$?
+\shortans{7}
 \end{ex}
 
 \begin{ex}
 Có bao nhiêu giá trị nguyên dương của tham số $m$ để hàm số $y=\dfrac{1}{3}\cot^3 x-m\cot^2 x+\cot x+1$ nghịch biến trên khoảng $\left(0;\dfrac{\pi}{2}\right)$?
+\shortans{0}
 \end{ex}
 
 \begin{ex}
 Tất cả các giá trị của tham số $m$ sao cho đồ thị hàm số $y=x^3-3x^2+3m-1$ cắt trục hoành tại ba điểm phân biệt trong đó có đúng hai điểm có hoành độ lớn hơn $1$ là khoảng $(a;b)$. Giá trị của $a+b$ bằng bao nhiêu?
+\shortans{1}
 \end{ex}
 
 \begin{ex}
 Hàm số $y=(x+m)^3+(x+n)^3-x^3$ (tham số là $m,n$) đồng biến trên $(-\infty;+\infty)$. Giá trị nhỏ nhất của biểu thức $P=4(m^2+n^2)-2m-2n$ bằng bao nhiêu?
+\shortans{-0.25}
 \end{ex}
 
 \begin{ex}
-Gọi $S$ là tập hợp các giá trị của tham số $m$ để hàm số $y=\dfrac{1}{3}x^3-\dfrac{1}{2}mx^2+2mx-3m+4$ nghịch biến trên khoảng có độ dài bằng $3$. Tính tổng các phần tử của $S$.
+Gọi $S$ là tập hợp các giá trị nguyên trên đoạn$[0;20] của tham số $m$ để hàm số $y=\dfrac{1}{3}x^3-\dfrac{1}{2}mx^2+2mx-3m+4$ nghịch biến trên khoảng có độ dài bằng $3$. Tính tổng các phần tử của $S$.
+\shortans{174}
 \end{ex}
 
 \begin{ex}
 Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số $y=\dfrac{mx+9}{4x+m}$ nghịch biến trên khoảng $(0;4)$?
+\shortans{6}
 \end{ex}
