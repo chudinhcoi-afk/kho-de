@@ -113,9 +113,9 @@ Tìm khoảng nghịch biến của hàm số $y=f(x)$, biết $f'(x)=(x-3)(x+2)
 Hàm số $y=-x^4+2x^2+1$ đồng biến trên khoảng nào dưới đây?
 \choice
 {$(0;+\infty)$}
-{$(-\infty;-1)$}
+{\True $(-\infty;-1)$}
 {$(1;+\infty)$}
-{\True $(-\infty;0)$}
+{$(-\infty;0)$}
 \end{ex}
 
 
@@ -155,7 +155,7 @@ Cho hàm số $y=\dfrac{1}{3}x^3+(m+1)x^2+(m^2+2m)x-3$, với $m$ là tham số
 \choiceTF
 {\True Tập xác định của hàm số là $\mathbb{R}$}
 {\True Phương trình $y'=0$ có hai nghiệm phân biệt là $x_1=-m$ và $x=-m-2$}
-{Không tồn tại giá trị của tham số $m$ để hàm số đồng biến trên $\mathbb{R}$.}
+{\True Không tồn tại giá trị của tham số $m$ để hàm số đồng biến trên $\mathbb{R}$.}
 {Hàm số nghịch biến trên $(-1;1)$ khi và chỉ khi $m \ge -1$.}
 \end{ex}
 
